@@ -29,7 +29,7 @@ This project explores heart disease prediction through a comprehensive machine l
     ```
 2. **Navigate to the Code Directory**:
     ```bash
-    [HeartDiseasePredictionProject/](https://github.com/Zahid-Rahman-USF/HeartDiseasePredictionProject/tree/main/path-to-code-folder)
+    [HeartDiseasePredictionProject/](ISM 6251 Individual ML Exercise.ipynb)
     ```
 3. **Set Up Environment**:
     - Install necessary Python packages using:
