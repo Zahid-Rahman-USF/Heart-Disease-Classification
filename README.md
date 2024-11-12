@@ -29,12 +29,12 @@ This project explores heart disease prediction through a comprehensive machine l
     ```
 2. **Navigate to the Code Directory**:
     ```bash
-    cd HeartDiseasePredictionProject/code
+    [HeartDiseasePredictionProject/](https://github.com/Zahid-Rahman-USF/HeartDiseasePredictionProject/tree/main/path-to-code-folder)
     ```
 3. **Set Up Environment**:
     - Install necessary Python packages using:
     ```bash
-    pip freeze > requirements.txt
+    pip install -r requirements.txt
     ```
 
 ## Contributing
