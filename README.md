@@ -27,9 +27,9 @@ This project explores heart disease prediction through a comprehensive machine l
     ```bash
     git clone https://github.com/Zahid-Rahman-USF/HeartDiseasePredictionProject.git
     ```
-2. **Navigate to the Code Directory**:
-    ```bash
-    [HeartDiseasePredictionProject/](ISM 6251 Individual ML Exercise.ipynb)
+2. **Navigate to the Notebook**:
+   - Open the main notebook file:
+     [ISM 6251 Individual ML Exercise.ipynb](https://github.com/Zahid-Rahman-USF/Heart-Disease-Classification/blob/main/ISM%206251%20Individual%20ML%20Exercise.ipynb)
     ```
 3. **Set Up Environment**:
     - Install necessary Python packages using:
