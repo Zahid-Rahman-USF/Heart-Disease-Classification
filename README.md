@@ -20,8 +20,7 @@ This project explores heart disease prediction through a comprehensive machine l
 - **Model Evaluation**: Assessing model performance with metrics including accuracy, precision, recall, and ROC-AUC.
 
 ## Documentation
-- [Project Report](heart-disease-prediction/docs/Project_Report.pdf)
-- [Code Documentation](heart-disease-prediction/docs/Code_Documentation.pdf)
+- [Project Report](https://youtu.be/geknwQDeZ88)
 
 ## Installation
 1. **Clone the Repository**:
