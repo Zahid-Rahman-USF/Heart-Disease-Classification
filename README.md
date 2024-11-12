@@ -34,7 +34,7 @@ This project explores heart disease prediction through a comprehensive machine l
 3. **Set Up Environment**:
     - Install necessary Python packages using:
     ```bash
-    pip install -r requirements.txt
+    pip freeze > requirements.txt
     ```
 
 ## Contributing
