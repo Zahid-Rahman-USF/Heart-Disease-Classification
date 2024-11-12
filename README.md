@@ -6,6 +6,7 @@ This project, developed for the ISM 6251: Machine Learning course at the Univers
 - [Description](#description)
 - [Key Features](#key-features)
 - [Documentation](#documentation)
+- [Dataset](#dataset)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -21,6 +22,9 @@ This project explores heart disease prediction through a comprehensive machine l
 
 ## Documentation
 - [Project Report](https://youtu.be/geknwQDeZ88)
+
+## Dataset
+- [Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Installation
 1. **Clone the Repository**:
